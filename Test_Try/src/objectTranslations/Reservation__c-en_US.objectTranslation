@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Reservation</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Reservations</value>
+    </caseValues>
+    <fields>
+        <label><!-- Check In Date --></label>
+        <name>Check_In_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Check Out Data --></label>
+        <name>Check_Out_Data__c</name>
+    </fields>
+    <fields>
+        <label><!-- Customer --></label>
+        <name>Customer__c</name>
+        <relationshipLabel><!-- Reservations --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Date Of Reservation --></label>
+        <name>Date_Of_Reservation__c</name>
+    </fields>
+    <fields>
+        <label><!-- Room --></label>
+        <name>Room__c</name>
+        <relationshipLabel><!-- Reservations --></relationshipLabel>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

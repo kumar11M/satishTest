@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HomePageComponent xmlns="http://soap.sforce.com/2006/04/metadata">
+    <body>&lt;span style=&quot;color: #FFF0F5;&quot;&gt;&lt;b&gt;&lt;u&gt;&lt;i&gt;&lt;span style=&quot;background-color: #006400;&quot;&gt;This is a custom Component&lt;/span&gt;&lt;/i&gt;&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;</body>
+    <pageComponentType>htmlArea</pageComponentType>
+    <width>wide</width>
+</HomePageComponent>
